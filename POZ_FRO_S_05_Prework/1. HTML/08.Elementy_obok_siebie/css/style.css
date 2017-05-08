@@ -1,0 +1,35 @@
+div {
+  width: 500px;
+  height: 200px;
+  background-color: gray;
+  border: 1px solid black;
+}
+#left {
+  margin-left: 0;
+  margin-right: auto;
+}
+#right {
+  margin-left: auto;
+  margin-right: 0;
+}
+p {
+  width: 300px;
+  height: 200px;
+  border: 1px dashed black;
+}
+#cont1 {
+  font-style: italic;
+  color: red;
+  float: left;
+}
+#cont2 {
+  font-weight: bold;
+  color: green;
+  float: left;
+}
+#cont3 {
+  clear: both;
+  border: none;
+  width: 1px;
+  height: 1px;
+}

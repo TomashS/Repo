@@ -1,0 +1,15 @@
+body {
+  background-color: blue;
+}
+#g {
+  color: green;
+}
+#v {
+  color: violet;
+}
+.b {
+  color: brown;
+}
+div.block {
+  border: 1px solid black;
+}

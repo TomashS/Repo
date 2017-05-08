@@ -1,0 +1,27 @@
+body {
+  line-height: 3em;
+  color: gray;
+}
+label, input, textarea {
+  display: block;
+  color: darkgray;
+}
+label {
+  font-size: 24px;
+  font-family: 'Times New Roman', serif;
+  font-weight: bold;
+}
+input, textarea {
+  font-family: Courier;
+}
+#s {
+  color: black;
+  text-transform: uppercase;
+}
+.b {
+  display: inline;
+  color: gray;
+}
+.c {
+  color: black;
+}

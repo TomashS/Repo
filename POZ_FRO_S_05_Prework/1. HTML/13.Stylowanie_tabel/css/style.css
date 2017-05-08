@@ -1,0 +1,13 @@
+table, th, td {
+border: 1px solid black;
+}
+th {
+  background-color: darkblue;
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+}
+#a {
+  border: 1px, solid black;
+  border-collapse: collapse;
+}
